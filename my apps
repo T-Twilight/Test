@@ -1,0 +1,10 @@
+#ReplacmentForapt
+sudo apt install nala -y
+#FileManager
+sudo apt install thunar -y
+#MediaPlayer
+sudo apt install vlc -y
+#TextEditor
+sudo apt install pluma -y
+#ResourceMonitor
+sudo apt install btop -y
