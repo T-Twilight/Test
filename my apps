@@ -8,3 +8,5 @@ sudo apt install vlc -y
 sudo apt install pluma -y
 #ResourceMonitor
 sudo apt install btop -y
+#ImageViwer
+sudo apt install sxiv -y
